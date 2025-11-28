@@ -1,0 +1,5 @@
+This is my first note.
+here I will be writing to file.
+My python training has been good so far.
+Excited to learn more.
+This is an appended line
