@@ -1,0 +1,4 @@
+System Log Summary
+Number of ERROR lines: 2
+Number of WARNING lines: 1
+Number of INFO lines: 2

@@ -1,0 +1,6 @@
+
+            Employee Record
+            ID: 1
+            Name: Vaish  
+            Salary: 75000
+            

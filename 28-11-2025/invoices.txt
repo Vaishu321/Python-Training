@@ -1,0 +1,19 @@
+
+                --------------------
+                Item: Soap
+                Price: 30
+                Quantity: 10
+                Total: 300
+                --------------------
+                --------------------
+                Item: Shampoo
+                Price: 60
+                Quantity: 5
+                Total: 300
+                --------------------
+                --------------------
+                Item: Bread
+                Price: 25
+                Quantity: 1
+                Total: 25
+                --------------------Sum of Total: 625

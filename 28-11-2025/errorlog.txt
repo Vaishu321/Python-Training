@@ -1,0 +1,10 @@
+ERROR -Log Date&Time: 12:46:22
+ERROR: File not found
+ERROR -Log Date&Time: 12:46:22
+ERROR: Invalid User Input
+ERROR -Log Date&Time: 12:46:22
+ERROR: Timeout occurred
+ERROR -Log Date&Time: 12:46:22
+ERROR: Permission denied
+ERROR -Log Date&Time: 12:46:22
+ERROR: Database Error
