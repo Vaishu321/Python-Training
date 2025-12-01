@@ -1,0 +1,7 @@
+# Create a function that raises a custom exception InvalidAgeError if age < 18.
+def check_age(age):
+    if age < 18:
+        raise ValueError("Age must be greater than or equal to 18")
+    return "Allowed Age"
+
+print(check_age(20))
