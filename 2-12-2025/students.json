@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"Aisha",
+        "Marks":85,
+        "City":"Mumbai"
+    },
+    {
+        "Name":"Rahul",
+        "Marks":92,
+        "City":"Delhi"
+    },
+    {
+        "Name":"John",
+        "Marks":78,
+        "City":"Chennai"
+    },
+    {
+        "Name":"Mary",
+        "Marks":62,
+        "City":"Bangalore"
+    }
+]
